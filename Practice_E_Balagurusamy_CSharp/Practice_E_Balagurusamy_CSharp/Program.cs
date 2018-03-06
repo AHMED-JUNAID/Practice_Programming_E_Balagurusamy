@@ -9,6 +9,7 @@ namespace Practice_E_Balagurusamy_CSharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("C# is sharper than C++");
         }
     }
 }
