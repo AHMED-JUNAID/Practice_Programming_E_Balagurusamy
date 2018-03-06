@@ -11,9 +11,10 @@ namespace Practice_E_Balagurusamy_CSharp
     class Program
     {
         //Main method begins
-        static void Main(string[] args)
+        static int Main(string[] args)
         {
-            Console.WriteLine("Hello!");
+            Console.WriteLine("Hello! Return Type Of Main Is Int");
+            return 0; //Main return something
         }
         //Main method ends
     }
